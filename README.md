@@ -13,6 +13,7 @@
   <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-%2300599c.svg?logo=C%2b%2b&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=TypeScript&logoColor=white&style=for-the-badge" /></a>
   <a href="https://gradle.org/"><img src="https://img.shields.io/badge/Gradle-%2302303A.svg?logo=Gradle&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.stmcu.jp/stm32family/"><img src="https://img.shields.io/badge/STM32-%2333AADD.svg?style=for-the-badge" /></a>
 </p>
 
 <h3 align='center'>Sometimes :turtle:</h2>
