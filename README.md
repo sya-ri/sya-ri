@@ -27,6 +27,14 @@
   <a href="https://maven.apache.org/"><img src="https://img.shields.io/badge/Maven-%23C71A36.svg?logo=Apache%20Maven&logoColor=white&style=for-the-badge" /></a>
 </p>
 
+<h3 align='center'>Want To Learn :ant:</h2>
+<p align='center'>
+  <a href="https://www.apple.com/swift/"><img src="https://img.shields.io/badge/Swift-%23FA7343.svg?logo=Swift&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.scala-lang.org/"><img src="https://img.shields.io/badge/Scala-%23DC322F.svg?logo=Scala&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://golang.org/"><img src="https://img.shields.io/badge/Go-%2300ADD8.svg?logo=Go&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-%23000000.svg?logo=Rust&logoColor=white&style=for-the-badge" /></a>
+</p>
+
 <h3 align='center'>Tools :pencil:</h2>
 <p align='center'>
   <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ-%23000000.svg?logo=IntelliJ%20IDEA&logoColor=white&style=for-the-badge" /></a>
