@@ -18,6 +18,7 @@
 <h3 align='center'>Sometimes :turtle:</h2>
 <p align='center'>
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-%23007396.svg?logo=Java&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://developer.android.com/"><img src="https://img.shields.io/badge/Android-%233DDC84.svg?logo=Android&logoColor=white&style=for-the-badge" /></a>
   <a href="https://docs.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/C%20Sharp-%23239120.svg?logo=C%20Sharp&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=Python&logoColor=white&style=for-the-badge" /></a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=JavaScript&logoColor=white&style=for-the-badge" /></a>
