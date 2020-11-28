@@ -1,4 +1,4 @@
-<h1 align='center'>Hi there :wave: &nbsp; I'm sya-ri :hedgehog:</h2>
+<h1 align='center'>Hi there :wave:&nbsp; I'm sya-ri :hedgehog:</h2>
 
 <h3 align='center'>Links :paperclip:</h2>
 <p align='center'>
