@@ -24,6 +24,7 @@
   <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=JavaScript&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.centos.org/"><img src="https://img.shields.io/badge/CentOS-%23262577.svg?logo=CentOS&logoColor=white&style=for-the-badge" /></a>
   <a href="https://mariadb.com/"><img src="https://img.shields.io/badge/MariaDB-%23003545.svg?logo=MariaDB&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://maven.apache.org/"><img src="https://img.shields.io/badge/Maven-%23C71A36.svg?logo=Apache%20Maven&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 <h3 align='center'>Tools :pencil:</h2>
