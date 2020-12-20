@@ -12,7 +12,7 @@
   <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-%23f77111.svg?logo=Kotlin&logoColor=white&style=for-the-badge" /></a>
   <a href="https://gradle.org/"><img src="https://img.shields.io/badge/Gradle-%2302303A.svg?logo=Gradle&logoColor=white&style=for-the-badge" /></a>
   <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-%2300599c.svg?logo=C%2b%2b&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.stmcu.jp/stm32family/"><img src="https://img.shields.io/badge/STM32-%2333AADD.svg?style=for-the-badge" /></a>
+  <a href="https://www.stmcu.jp/stm32family/"><img src="https://img.shields.io/badge/STM32-%2333AADD.svg?logo=STMicroelectronics&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=TypeScript&logoColor=white&style=for-the-badge" /></a>
   <a href="https://developers.google.com/apps-script"><img src="https://img.shields.io/badge/Apps%20Script-%234285F4.svg?logo=Google&logoColor=white&style=for-the-badge" /></a>
 </p>
