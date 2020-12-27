@@ -2,6 +2,10 @@
 
 ## 2020
 
+### :pushpin: [読みやすいコードのかきかた」](https://slides.com/fly_in_pig/zenrobo18)  
+第18回全国ロボコン交流会  
+2020 / 12 / 27
+
 ### :pushpin: [「進捗管理はリーダーの仕事でも私の仕事でもない」](https://slides.com/fly_in_pig/robocon_online_2_2)
 第2回ロボコンオンライン  
 2020 / 12 / 12
