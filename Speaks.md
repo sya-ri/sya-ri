@@ -2,7 +2,7 @@
 
 ## 2020
 
-### :pushpin: [読みやすいコードのかきかた」](https://slides.com/fly_in_pig/zenrobo18)  
+### :pushpin: [「読みやすいコードのかきかた」](https://slides.com/fly_in_pig/zenrobo18)  
 第18回全国ロボコン交流会  
 2020 / 12 / 27
 
