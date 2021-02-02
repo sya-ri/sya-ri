@@ -46,3 +46,9 @@
   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=GitHub&logoColor=white&style=for-the-badge" /></a>
   <a href="https://gitlab.com/"><img src="https://img.shields.io/badge/GitLab-%23FCA121.svg?logo=GitLab&logoColor=white&style=for-the-badge" /></a>
 </p>
+
+<h3 align='center'>Stats :label:</h2>
+<p align='center'>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sya-ri" alt="github-readme-streak-stats" />
+</p>
+
