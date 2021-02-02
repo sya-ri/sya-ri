@@ -49,6 +49,6 @@
 
 <h3 align='center'>Stats :label:</h2>
 <p align='center'>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sya-ri" alt="github-readme-streak-stats" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sya-ri" alt="github-readme-streak-stats" /></a>
 </p>
 
