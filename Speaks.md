@@ -1,5 +1,11 @@
 # Speaks :mega:
 
+## 2021
+
+### :pushpin: [「はじめてのKotlinライブラリ」](https://slides.com/fly_in_pig/love-kotlin-27)  
+Kotlin愛好会 vol.27  
+2021 / 02 / 17
+
 ## 2020
 
 ### :pushpin: [「読みやすいコードのかきかた」](https://slides.com/fly_in_pig/zenrobo18)  
