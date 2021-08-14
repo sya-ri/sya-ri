@@ -2,7 +2,7 @@
 
 <h3 align='center'>Links :paperclip:</h2>
 <p align='center'>
-  <a href="https://twitter.com/fly_in_pig"><img src="https://img.shields.io/badge/Twitter-fly__in__pig-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://twitter.com/sya_ri_dayo"><img src="https://img.shields.io/badge/Twitter-sya__ri__dayo-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge" /></a>
   <a href="https://qiita.com/sya-ri"><img src="https://img.shields.io/badge/Qiita-sya--ri-%2355C500.svg?logo=Qiita&logoColor=white&style=for-the-badge" /></a>
   <a href="./Speaks.md"><img src="https://img.shields.io/badge/Speaks.md-%23000000.svg?logo=GitHub&logoColor=white&style=for-the-badge" /></a>
 </p>
