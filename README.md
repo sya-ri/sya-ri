@@ -106,11 +106,4 @@
     </a>
     : Proxy your local Minecraft server with a public server using your domain
   </li>
-  <li>
-    <img src="assets/typescript.svg" width="16" />
-    <a href="https://github.com/sya-ri/file-server-cf-worker">
-      sya-ri/file-server-cf-worker
-    </a>
-    : Personal file sharing system using URL (f.s7a.dev)
-  </li>
 </ul>
