@@ -88,6 +88,20 @@
 </ul>
 
 <h3>
+  ⚔️ Minecraft plugins
+</h3>
+
+<ul>
+  <li>
+    <img src="assets/java.svg" width="16" />
+    <a href="https://github.com/wanko-zushi/MinecraftServerExceptionDiscordSender">
+      wanko-zushi/MinecraftServerExceptionDiscordSender
+    </a>
+    : Notify Minecraft server exceptions using Discord webhook
+  </li>
+</ul>
+
+<h3>
   🛠️ Tools
 </h3>
 
