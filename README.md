@@ -65,6 +65,13 @@
     : Spigot library with Kotlin for easy inventory creation and event handling
   </li>
   <li>
+    <img src="assets/kotlin.svg" width="16" />
+    <a href="https://github.com/sya-ri/commandapi-kotlin-improved">
+      sya-ri/commandapi-kotlin-improved
+    </a>
+    : Improve <a href="https://github.com/JorelAli/CommandAPI">CommandAPI</a> Kotlin DSL
+  </li>
+  <li>
     <img src="assets/java.svg" width="16" />
     <a href="https://github.com/sya-ri/base64-itemstack">
       sya-ri/base64-itemstack
