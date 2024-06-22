@@ -44,11 +44,13 @@
     : Kotlin Wrapper Library of JGit
   </li>
   <li>
-    <img src="assets/kotlin.svg" width="16" />
-    <a href="https://github.com/sya-ri/Gofile.kt">
-      sya-ri/Gofile.kt
-    </a>
-    : Kotlin wrapper for the Gofile.io API
+    <s>
+      <img src="assets/kotlin.svg" width="16" />
+      <a href="https://github.com/sya-ri/Gofile.kt">
+        sya-ri/Gofile.kt
+      </a>
+      : Kotlin wrapper for the Gofile.io API
+    </s>
   </li>
   <li>
     <img src="assets/kotlin.svg" width="16" />
