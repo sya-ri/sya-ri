@@ -80,6 +80,13 @@
     </a>
     : ItemStack and Base64 (string) conversion library for Spigot
   </li>
+  <li>
+    <img src="assets/typescript.svg" width="16" />
+    <a href="https://github.com/sya-ri/css-var-extract">
+      sya-ri/css-var-extract
+    </a>
+    : Use CSS variables type-safely for CSS-in-JS. No runtime dependencies, and can be optimized.
+  </li>
 </ul>
 
 <h3>
