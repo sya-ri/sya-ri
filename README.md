@@ -24,6 +24,20 @@
   </li>
   <li>
     <img src="assets/typescript.svg" width="16" />
+    <a href="https://github.com/sya-ri/minecraft-inventory">
+      sya-ri/minecraft-inventory
+    </a>
+    : Web application for editing Minecraft inventories
+  </li>
+  <li>
+    <img src="assets/typescript.svg" width="16" />
+    <a href="https://mineportal.jp">
+      mineportal.jp
+    </a>
+    : Minecraft server portal
+  </li>
+  <li>
+    <img src="assets/typescript.svg" width="16" />
     <a href="https://github.com/sya-ri/sya-ri.github.io">
       sya-ri/sya-ri.github.io
     </a>
@@ -35,35 +49,11 @@
   📚 Libraries
 </h3>
 
+<h4>
+  Minecraft
+</h4>
+
 <ul>
-  <li>
-    <img src="assets/kotlin.svg" width="16" />
-    <a href="https://github.com/sya-ri/sqldelight-oracle">
-      sya-ri/sqldelight-oracle
-    </a>
-    : Oracle Database support for SQLDelight and sqldelight-check
-  </li>
-  <li>
-    <img src="assets/kotlin.svg" width="16" />
-    <a href="https://github.com/sya-ri/fiktion">
-      sya-ri/fiktion
-    </a>
-    : Kotlin Multiplatform fake data library for tests
-  </li>
-  <li>
-    <img src="assets/cpp.svg" width="16" />
-    <a href="https://github.com/sya-ri/HAL_Extension">
-      sya-ri/HAL_Extension
-    </a>
-    : C++ class wrappers for STM32 HAL
-  </li>
-  <li>
-    <img src="assets/kotlin.svg" width="16" />
-    <a href="https://github.com/sya-ri/KGit">
-      sya-ri/KGit
-    </a>
-    : Kotlin Wrapper Library of JGit
-  </li>
   <li>
     <img src="assets/kotlin.svg" width="16" />
     <a href="https://github.com/sya-ri/ktConfig">
@@ -86,6 +76,57 @@
     : Improve <a href="https://github.com/JorelAli/CommandAPI">CommandAPI</a> Kotlin DSL
   </li>
   <li>
+    <img src="assets/java.svg" width="16" />
+    <a href="https://github.com/sya-ri/base64-itemstack">
+      sya-ri/base64-itemstack
+    </a>
+    : ItemStack and Base64 (string) conversion library for Spigot
+  </li>
+</ul>
+
+<h4>
+  Kotlin
+</h4>
+
+<ul>
+  <li>
+    <img src="assets/kotlin.svg" width="16" />
+    <a href="https://github.com/sya-ri/sqldelight-oracle">
+      sya-ri/sqldelight-oracle
+    </a>
+    : Oracle Database support for SQLDelight and sqldelight-check
+  </li>
+  <li>
+    <img src="assets/kotlin.svg" width="16" />
+    <a href="https://github.com/sya-ri/fiktion">
+      sya-ri/fiktion
+    </a>
+    : Kotlin Multiplatform fake data library for tests
+  </li>
+  <li>
+    <img src="assets/kotlin.svg" width="16" />
+    <a href="https://github.com/sya-ri/KGit">
+      sya-ri/KGit
+    </a>
+    : Kotlin Wrapper Library of JGit
+  </li>
+  <li>
+    <s>
+      <img src="assets/kotlin.svg" width="16" />
+      <a href="https://github.com/sya-ri/Gofile.kt">
+        sya-ri/Gofile.kt
+      </a>
+      : Kotlin wrapper for the Gofile.io API
+    </s>
+  </li>
+</ul>
+
+<h4>
+  TypeScript libraries
+</h4>
+
+<ul>
+  <li>
     <img src="assets/typescript.svg" width="16" />
     <a href="https://github.com/sya-ri/css-var-extract">
       sya-ri/css-var-extract
@@ -99,21 +140,19 @@
     </a>
     : High-performance, schema-based XML parser for TypeScript with strong type safety
   </li>
+</ul>
+
+<h4>
+  Embedded libraries
+</h4>
+
+<ul>
   <li>
-    <img src="assets/java.svg" width="16" />
-    <a href="https://github.com/sya-ri/base64-itemstack">
-      sya-ri/base64-itemstack
+    <img src="assets/cpp.svg" width="16" />
+    <a href="https://github.com/sya-ri/HAL_Extension">
+      sya-ri/HAL_Extension
     </a>
-    : ItemStack and Base64 (string) conversion library for Spigot
-  </li>
-  <li>
-    <s>
-      <img src="assets/kotlin.svg" width="16" />
-      <a href="https://github.com/sya-ri/Gofile.kt">
-        sya-ri/Gofile.kt
-      </a>
-      : Kotlin wrapper for the Gofile.io API
-    </s>
+    : C++ class wrappers for STM32 HAL
   </li>
 </ul>
 
@@ -165,11 +204,13 @@
     : Minecraft authoring facts, agent skills, CLI, and MCP tools for AI agents
   </li>
   <li>
-    <img src="assets/kotlin.svg" width="16" />
-    <a href="https://github.com/wanko-zushi/Animotion">
-      wanko-zushi/Animotion
-    </a>
-    : Spigot plugin and CLI tool to animate BlockBench models in Minecraft Java Edition
+    <s>
+      <img src="assets/kotlin.svg" width="16" />
+      <a href="https://github.com/wanko-zushi/Animotion">
+        wanko-zushi/Animotion
+      </a>
+      : Spigot plugin and CLI tool to animate BlockBench models in Minecraft Java Edition
+    </s>
   </li>
   <li>
     <img src="assets/docker.svg" width="16" />
