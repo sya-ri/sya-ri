@@ -20,7 +20,7 @@
     <a href="https://github.com/sya-ri/spigot-event-list">
       sya-ri/spigot-event-list
     </a>
-    : Event list for Minecraft plugins
+    : Event search site and AI skill for Minecraft plugins
   </li>
   <li>
     <img src="assets/typescript.svg" width="16" />
@@ -38,26 +38,38 @@
 <ul>
   <li>
     <img src="assets/kotlin.svg" width="16" />
+    <a href="https://github.com/sya-ri/sqldelight-oracle">
+      sya-ri/sqldelight-oracle
+    </a>
+    : Oracle Database support for SQLDelight and sqldelight-check
+  </li>
+  <li>
+    <img src="assets/kotlin.svg" width="16" />
+    <a href="https://github.com/sya-ri/fiktion">
+      sya-ri/fiktion
+    </a>
+    : Kotlin Multiplatform fake data library for tests
+  </li>
+  <li>
+    <img src="assets/cpp.svg" width="16" />
+    <a href="https://github.com/sya-ri/HAL_Extension">
+      sya-ri/HAL_Extension
+    </a>
+    : C++ class wrappers for STM32 HAL
+  </li>
+  <li>
+    <img src="assets/kotlin.svg" width="16" />
     <a href="https://github.com/sya-ri/KGit">
       sya-ri/KGit
     </a>
     : Kotlin Wrapper Library of JGit
   </li>
   <li>
-    <s>
-      <img src="assets/kotlin.svg" width="16" />
-      <a href="https://github.com/sya-ri/Gofile.kt">
-        sya-ri/Gofile.kt
-      </a>
-      : Kotlin wrapper for the Gofile.io API
-    </s>
-  </li>
-  <li>
     <img src="assets/kotlin.svg" width="16" />
     <a href="https://github.com/sya-ri/ktConfig">
       sya-ri/ktConfig
     </a>
-    : Spigot configuration library using Kotlin data classes
+    : KSP-generated type-safe configuration loaders for Kotlin Bukkit, Spigot, and Paper plugins
   </li>
   <li>
     <img src="assets/kotlin.svg" width="16" />
@@ -74,6 +86,20 @@
     : Improve <a href="https://github.com/JorelAli/CommandAPI">CommandAPI</a> Kotlin DSL
   </li>
   <li>
+    <img src="assets/typescript.svg" width="16" />
+    <a href="https://github.com/sya-ri/css-var-extract">
+      sya-ri/css-var-extract
+    </a>
+    : Use CSS variables type-safely for CSS-in-JS. No runtime dependencies, and can be optimized.
+  </li>
+  <li>
+    <img src="assets/typescript.svg" width="16" />
+    <a href="https://github.com/sya-ri/fast-typed-xml">
+      sya-ri/fast-typed-xml
+    </a>
+    : High-performance, schema-based XML parser for TypeScript with strong type safety
+  </li>
+  <li>
     <img src="assets/java.svg" width="16" />
     <a href="https://github.com/sya-ri/base64-itemstack">
       sya-ri/base64-itemstack
@@ -81,11 +107,13 @@
     : ItemStack and Base64 (string) conversion library for Spigot
   </li>
   <li>
-    <img src="assets/typescript.svg" width="16" />
-    <a href="https://github.com/sya-ri/css-var-extract">
-      sya-ri/css-var-extract
-    </a>
-    : Use CSS variables type-safely for CSS-in-JS. No runtime dependencies, and can be optimized.
+    <s>
+      <img src="assets/kotlin.svg" width="16" />
+      <a href="https://github.com/sya-ri/Gofile.kt">
+        sya-ri/Gofile.kt
+      </a>
+      : Kotlin wrapper for the Gofile.io API
+    </s>
   </li>
 </ul>
 
@@ -94,6 +122,13 @@
 </h3>
 
 <ul>
+  <li>
+    <img src="assets/kotlin.svg" width="16" />
+    <a href="https://github.com/sya-ri/sqldelight-check">
+      sya-ri/sqldelight-check
+    </a>
+    : SQLDelight formatter and rule-based linter for .sq and .sqm files
+  </li>
   <li>
     <img src="assets/kotlin.svg" width="16" />
     <a href="https://github.com/sya-ri/minecraft-server-gradle-plugin">
@@ -122,6 +157,13 @@
 </h3>
 
 <ul>
+  <li>
+    <img src="assets/typescript.svg" width="16" />
+    <a href="https://github.com/sya-ri/minecraft-skills">
+      sya-ri/minecraft-skills
+    </a>
+    : Minecraft authoring facts, agent skills, CLI, and MCP tools for AI agents
+  </li>
   <li>
     <img src="assets/kotlin.svg" width="16" />
     <a href="https://github.com/wanko-zushi/Animotion">
