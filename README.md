@@ -34,7 +34,7 @@
     <a href="https://mineportal.jp">
       mineportal.jp
     </a>
-    : Minecraft server portal
+    : Minecraft server list
   </li>
   <li>
     <img src="assets/typescript.svg" width="16" />
@@ -50,7 +50,7 @@
 </h3>
 
 <h4>
-  Minecraft
+  Minecraft libraries
 </h4>
 
 <ul>
@@ -85,7 +85,7 @@
 </ul>
 
 <h4>
-  Kotlin
+  Kotlin libraries
 </h4>
 
 <ul>
