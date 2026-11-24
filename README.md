@@ -32,9 +32,9 @@
   <li>
     <img src="assets/typescript.svg" width="16" />
     <a href="https://mineportal.jp">
-      mineportal.jp
+      MinePortal
     </a>
-    : Minecraft server list
+    : Browse Minecraft servers and find one to join
   </li>
   <li>
     <img src="assets/typescript.svg" width="16" />
@@ -196,6 +196,12 @@
 </h3>
 
 <ul>
+  <li>
+    🎙️
+    <a href="https://github.com/orvia-audio/orvia">Orvia</a>
+    : Desktop microphone mixer with noise suppression and per-app routing
+    (<a href="https://orvia.s7a.dev/#listen">audio demo</a>)
+  </li>
   <li>
     <img src="assets/typescript.svg" width="16" />
     <a href="https://github.com/sya-ri/minecraft-skills">
